@@ -45,14 +45,14 @@ sportsQuestions.push(sportSeven);
 var sportEight = new Question('Against which MLB team did Hank Aaron hit his 500th homerun?', 'San Fransico Giants', 'Atlanta Braves', 'Milwaukee Brewers', 'Cincinnati Reds', 'sports');
 sportsQuestions.push(sportEight);
 
-var sportNine = new Question('Which current NBA team belonged to the American Basketball Association(ABA) before the league\'s merge with the NBA in 1976', 'Indianna Pacers', 'LA Clippers', 'LA Lakers', 'Chicago Bulls', 'sports');
+var sportNine = new Question('Which current NBA team belonged to the American Basketball Association (ABA) before the league\'s merger with the NBA in 1976?', 'Indianna Pacers', 'LA Clippers', 'LA Lakers', 'Chicago Bulls', 'sports');
 sportsQuestions.push(sportNine);
 
 var sportTen = new Question('in 1994, NBA legend Michael Jordan played Double-A minor league baseball for an affiliate of the Chicago White Sox. Which South-Eastern team did he play for?', 'Birminham Barons', 'Charleston Riverdogs', 'Memphis Redbirds', 'Shreveport Captains', 'sports');
 sportsQuestions.push(sportTen);
 
 //Entertainment Questions Below This Line
-var entertainOne = new Question('When asked what he had done with his life to merit an invitation to the Whitehouse, to which First Lady did Miles Davis respond: \'\'Well, I\'ve changed the course of music five or six times. What have you done except f**k the president?\'\'', 'Nancy Reagan', 'Barbara Bush', 'Jackie Kennedy', 'Betty Ford', 'entertainment');
+var entertainOne = new Question('When asked what he had done with his life to merit an invitation to the White House, to which First Lady did Miles Davis respond: \'\'Well, I\'ve changed the course of music five or six times. What have you done except f**k the president?\'\'', 'Nancy Reagan', 'Barbara Bush', 'Jackie Kennedy', 'Betty Ford', 'entertainment');
 entertainmentQuestions.push(entertainOne);
 
 var entertainTwo = new Question('In the film Pineapple Express, which Star Wars creature is referenced by James Franco during his captivity?', 'Rancor', 'Tauntaun', 'Jawa', 'Wookie', 'entertainment');
@@ -67,7 +67,7 @@ entertainmentQuestions.push(entertainFour);
 var entertainFive = new Question('Which Hip-Hop artist has acted in films alongside Edward Norton, Jack Black, and Bruce Willis?', 'Mos Def', 'Ludacris', 'Queen Latifah', 'Ice Cube', 'entertainment');
 entertainmentQuestions.push(entertainFive);
 
-var entertainSix = new Question('In the 1942 classic Casablanca, Humphrey Bogart’s character Rick Blaine speaks the famous line: \'\'Of all the ____ joints, in all the towns in the world, she walks into mine.\'\'', 'gin', 'whiskey', 'tequila', 'wine', 'entertainment');
+var entertainSix = new Question('In the 1942 classic, Casablanca, Humphrey Bogart’s character Rick Blaine speaks the famous line: \'\'Of all the ____ joints, in all the towns in the world, she walks into mine.\'\'', 'gin', 'whiskey', 'tequila', 'wine', 'entertainment');
 entertainmentQuestions.push(entertainSix);
 
 var entertainSeven = new Question('Dr. Dre isn\'t known for his medical advice, but he suggests that his audiences "Smoke weed" how often?', 'Everyday', 'Twice a week', 'Never', 'Monthly', 'entertainment');
